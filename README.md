@@ -30,7 +30,16 @@ Make sure you have the following installed:
 - Virtualenv
 
 ### Installation
+## Backend
 
 - Setting up the Backend
 -  cd backend
+-  \venv\Scripts\activate
+-  pip install -r requirements.txt
+-  OPENAI_API_KEY=sk-your-openai-api-key
+-  python app.py
 
+ ## Frontend
+ - cd ../frontend
+ - npm install
+ - npm start
