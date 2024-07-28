@@ -33,6 +33,7 @@ Make sure you have the following installed:
 
 - Setting up the Backend
 -  cd backend
+-  python -m venv venv
 -  \venv\Scripts\activate
 -  pip install -r requirements.txt
 -  OPENAI_API_KEY=sk-your-openai-api-key
