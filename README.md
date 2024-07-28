@@ -29,8 +29,8 @@ Make sure you have the following installed:
 - Python 3.x
 - Virtualenv
 
-### Installation
-## Backend
+# Installation
+### Backend
 
 - Setting up the Backend
 -  cd backend
@@ -39,7 +39,7 @@ Make sure you have the following installed:
 -  OPENAI_API_KEY=sk-your-openai-api-key
 -  python app.py
 
- ## Frontend
+ ### Frontend
  - cd ../frontend
  - npm install
  - npm start
