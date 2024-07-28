@@ -30,9 +30,6 @@ Make sure you have the following installed:
 - Virtualenv
 
 ### Installation
-
-1. *Clone the repository*
-
-   ```bash
-   git clone https://github.com/your-username/document-summarizer.git
-   cd document-summarizer
+Setting up the Backend
+Navigate to the backend directory:
+cd backend
