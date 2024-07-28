@@ -1,6 +1,5 @@
 # Document Summarizer
 
-![Document Summarizer](https://via.placeholder.com/800x200?text=Document+Summarizer)
 
 A web application that allows users to upload text documents and receive summarized versions using a locally deployed Language Model. The application is built with a Flask backend and a React frontend.
 
