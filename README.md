@@ -42,3 +42,10 @@ Make sure you have the following installed:
  - cd ../frontend
  - npm install
  - npm start
+
+## Bibliography
+- OpenAI. (2021). GPT-3. Retrieved from https://www.openai.com/
+- Hugging Face. (2021). Transformers. Retrieved from https://huggingface.co/transformers/
+- Flask. (2021). Flask Documentation. Retrieved from https://flask.palletsprojects.com/
+- React. (2021). React Documentation. Retrieved from https://reactjs.org/docs/getting-started.html
+- Node.js. (2021). Node.js Documentation. Retrieved from https://nodejs.org/en/docs/ 
