@@ -31,5 +31,43 @@ Make sure you have the following installed:
 
 ### Installation
 Setting up the Backend
-Navigate to the backend directory:
+Navigate to the backend directory :
+
 cd backend
+
+python -m venv venv
+
+.\venv\Scripts\activate  # On Windows
+
+pip install -r requirements.txt
+
+OPENAI_API_KEY=sk-your-openai-api-key
+
+python app.py 
+
+cd ../frontend
+
+npm install
+
+npm start
+
+document-summarizer/
+├── backend/
+│   ├── uploads/
+│   ├── venv/
+│   ├── .env
+│   ├── app.py
+│   └── requirements.txt
+├── frontend/
+│   ├── public/
+│   ├── src/
+│   │   ├── components/
+│   │   │   ├── FileUpload.js
+│   │   │   └── SummaryOutput.js
+│   │   ├── App.css
+│   │   ├── App.js
+│   │   ├── index.css
+│   │   └── index.js
+│   ├── package.json
+│   └── package-lock.json
+└── README.md 
